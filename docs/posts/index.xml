@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 🖥️ Pospal Training Video</title>
+    <link>https://intelligeneer.github.io/posts/</link>
+    <description>Recent content in Posts on 🖥️ Pospal Training Video</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2024 15:30:57 +1000</lastBuildDate>
+    <atom:link href="https://intelligeneer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在没有网络的情况下，使用手机热点登入点单系统</title>
+      <link>https://intelligeneer.github.io/posts/change_internet/</link>
+      <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
+      <guid>https://intelligeneer.github.io/posts/change_internet/</guid>
+      <description>本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。 首先我们去到界面左下角第五个按键 关闭Ethern</description>
+    </item>
+    <item>
+      <title>1 收银端教学-安卓版 (POS Training-Android Version)</title>
+      <link>https://intelligeneer.github.io/posts/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E4%BA%A4%E6%8E%A5%E7%8F%AD---%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F-handover-on-pos---android-end/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/posts/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E4%BA%A4%E6%8E%A5%E7%8F%AD---%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F-handover-on-pos---android-end/</guid>
+      <description>右上角可以选择播放列表</description>
+    </item>
+    <item>
+      <title>2 AdaPay EFTPOS</title>
+      <link>https://intelligeneer.github.io/posts/2-adapay_eftpos/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/posts/2-adapay_eftpos/</guid>
+      <description>右上角可以选择播放列表</description>
+    </item>
+    <item>
+      <title>3 后台教学 - 中文</title>
+      <link>https://intelligeneer.github.io/posts/3-backoffice_cn/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/posts/3-backoffice_cn/</guid>
+      <description>右上角可以选择播放列表</description>
+    </item>
+    <item>
+      <title>4 Back Office - English Ver</title>
+      <link>https://intelligeneer.github.io/posts/4-backoffice_eng/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/posts/4-backoffice_eng/</guid>
+      <description>右上角可以选择播放列表</description>
+    </item>
+    <item>
+      <title>这是银豹系统的一个视频Training网站</title>
+      <link>https://intelligeneer.github.io/posts/0-readme/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/posts/0-readme/</guid>
+      <description>这是银豹系统的一个视频Training网站</description>
+    </item>
+  </channel>
+</rss>
